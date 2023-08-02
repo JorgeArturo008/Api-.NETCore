@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gxsrYtsO7hFBgsDRRMNqpGBsAJPcNUNTSGU0ay+QlEtDb7n4TLJjq1VR1oU77TLlv1X+md4l9SdnLSBRYl6JZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jorge Arturo\\Desktop\\Programacion\\.Net Core\\ApiInventory\\ApiInventory\\ApiInventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jorge Arturo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge Arturo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Jorge Arturo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jorge Arturo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jorge Arturo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Jorge Arturo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
